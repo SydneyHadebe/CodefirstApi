@@ -1,0 +1,14 @@
+C:\Users\ABBH224\source\repos\SchoolApi\bin\Debug\netcoreapp2.2\SchoolApi.deps.json
+C:\Users\ABBH224\source\repos\SchoolApi\bin\Debug\netcoreapp2.2\SchoolApi.runtimeconfig.json
+C:\Users\ABBH224\source\repos\SchoolApi\bin\Debug\netcoreapp2.2\SchoolApi.runtimeconfig.dev.json
+C:\Users\ABBH224\source\repos\SchoolApi\bin\Debug\netcoreapp2.2\SchoolApi.dll
+C:\Users\ABBH224\source\repos\SchoolApi\bin\Debug\netcoreapp2.2\SchoolApi.pdb
+C:\Users\ABBH224\source\repos\SchoolApi\obj\Debug\netcoreapp2.2\SchoolApi.csproj.CoreCompileInputs.cache
+C:\Users\ABBH224\source\repos\SchoolApi\obj\Debug\netcoreapp2.2\SchoolApi.RazorAssemblyInfo.cache
+C:\Users\ABBH224\source\repos\SchoolApi\obj\Debug\netcoreapp2.2\SchoolApi.RazorAssemblyInfo.cs
+C:\Users\ABBH224\source\repos\SchoolApi\obj\Debug\netcoreapp2.2\SchoolApi.AssemblyInfoInputs.cache
+C:\Users\ABBH224\source\repos\SchoolApi\obj\Debug\netcoreapp2.2\SchoolApi.AssemblyInfo.cs
+C:\Users\ABBH224\source\repos\SchoolApi\obj\Debug\netcoreapp2.2\SchoolApi.RazorTargetAssemblyInfo.cache
+C:\Users\ABBH224\source\repos\SchoolApi\obj\Debug\netcoreapp2.2\SchoolApi.dll
+C:\Users\ABBH224\source\repos\SchoolApi\obj\Debug\netcoreapp2.2\SchoolApi.pdb
+C:\Users\ABBH224\source\repos\SchoolApi\obj\Debug\netcoreapp2.2\SchoolApi.csprojAssemblyReference.cache
